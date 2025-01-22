@@ -1,0 +1,11 @@
+lista_de_arquivos.txt
+undraw_access-account_idy0.svg
+undraw_metrics_02ml.svg
+undraw_mobile-analytics_yrfp.svg
+undraw_mobile-login_4ntr.svg
+undraw_mobile-site_qjby.svg
+undraw_personal-goals_f9bb.svg
+undraw_projections_fhch.svg
+undraw_sign-in_uva0.svg
+undraw_sign-up_qamz.svg
+undraw_welcome_nk8k.svg
